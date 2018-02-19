@@ -4,6 +4,8 @@
     <string name="label_error_text">Error</string>
     <string name="base">Base Currency</string>
     <string name="imageview_desc">Bitcoin Logo</string>
+    <string name="ask">ASK</string>
+    <string name="bid">BID</string>
 
     <string-array name="currency_array">
         <item>AUD</item>
